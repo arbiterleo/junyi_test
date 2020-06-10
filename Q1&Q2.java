@@ -74,12 +74,12 @@ public class Main
 			if(temp % 3 == 0 && temp % 5 ==0)
 			{
 				result += 1;
-				//System.out.println(temp); ´ú¸Õ¥Î
+				//System.out.println(temp); Â´ÃºÂ¸Ã•Â¥ÃŽ
 			}
 			else if(temp % 3 != 0 && temp % 5 != 0)
 			{
 				result += 1;
-				//System.out.println(temp); ´ú¸Õ¥Î
+				//System.out.println(temp); Â´ÃºÂ¸Ã•Â¥ÃŽ
 			}
 		}
 		return result;
